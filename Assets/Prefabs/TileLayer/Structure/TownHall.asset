@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88dca2cbd1e7b241b1899f1abaa508c, type: 3}
+  m_Name: TownHall
+  m_EditorClassIdentifier: 
+  sprite:
+  - {fileID: 21300272, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300252, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300204, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300274, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300298, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300176, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300234, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300178, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300206, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300254, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  layerOrder: 2

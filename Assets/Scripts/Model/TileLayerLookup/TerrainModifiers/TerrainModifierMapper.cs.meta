@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 06d8123638754d044a636c8c7c8a34cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - road: {instanceID: 0}
+  - forest: {instanceID: 0}
+  - reef: {instanceID: 0}
+  - hill: {instanceID: 0}
+  - mountain: {instanceID: 0}
+  - river: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

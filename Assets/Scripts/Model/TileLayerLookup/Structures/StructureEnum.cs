@@ -1,0 +1,19 @@
+﻿public enum StructureEnum {
+    Empty,
+    Destroy,
+    Archery,
+    Barrack,
+    Blacksmith,
+    Bridge,
+    DrawBridge,
+    Gate,
+    House,
+    Keep,
+    Port,
+    SiegeWorkshop,
+    Stable,
+    Tower,
+    TownHall,
+    Wall,
+    Fence
+}

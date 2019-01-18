@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ee2bbf8800ad4eb5fd2c8d87a26b3, type: 3}
+  m_Name: Blacksmith
+  m_EditorClassIdentifier: 
+  sprite:
+  - {fileID: 21300340, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300344, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300342, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300088, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300348, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300350, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300058, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300102, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300352, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  - {fileID: 21300354, guid: a397b3168c9f5534daa58d71d9ea4d4b, type: 3}
+  layerOrder: 2

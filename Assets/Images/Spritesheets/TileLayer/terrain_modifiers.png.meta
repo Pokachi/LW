@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: 6e6bd8495efd7ce429d15db88404757c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Forest_Grass
+    21300002: Forest_Snow
+    21300004: Hill_Dirt
+    21300006: Road_NorthSouth
+    21300008: Road_NorthSouthEast
+    21300010: River_WestSouth
+    21300012: Forest_Dirt
+    21300014: Mountain_Snow
+    21300016: Hill_Sand
+    21300018: Road_WestNorthEast
+    21300020: River_NorthSouth
+    21300022: River_NorthEast
+    21300024: Road_WestEast
+    21300026: Road_WestSouthEast
+    21300028: River_WestNorthEast
+    21300030: Road_WestSouth
+    21300032: Mountain_GrassDirt
+    21300034: Hill_Grass
+    21300036: Road_WestNorthSouthEast
+    21300038: River_WestEast
+    21300040: River_WestNorthSouth
+    21300042: River_WestNorth
+    21300044: Road_WestNorthSouth
+    21300046: River_WestNorthSouthEast
+    21300048: River_NorthSouthEast
+    21300050: Road_NorthEast
+    21300052: Hill_Snow
+    21300054: River_WestSouthEast
+    21300056: River_SouthEast
+    21300058: Reef_Water
+    21300060: Road_WestNorth
+    21300062: Road_SouthEast
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forest_Grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 105
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37878788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50b05c609e07643acbdcd374fb9def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Snow
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 188
+        width: 105
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37878788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd0aea5f6a51a488ebbd7afc9f1723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hill_Dirt
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7bd44488815794f9279259d80e7477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_NorthSouth
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 214
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb52a3dc0961d24f867b295e689d6e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_NorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 214
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2eee4067861be48af5572b979fae5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestSouth
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 214
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 1.2121212, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb960f584ef35614e94d1f35f192ab4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Dirt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 105
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37878788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c818841719279343b2489a9406a7b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_Snow
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 122
+        width: 92
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739410b3394bd34f804c528fa5bf7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hill_Sand
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 165
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6531fef9bd68a01448c9f5d2f8b54ebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestNorthEast
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 173
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c162bca3c3e5fae4fae37d60608f5f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_NorthSouth
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 173
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ea966709336b4fb834feacd9bf02b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_NorthEast
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 173
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: -0.21212122, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa76bd41680844c86ed0575c63cdbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestEast
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 124
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fb20ebcda8ffe44937a33b07269b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestSouthEast
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 124
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393ff4b200fa284ca54e7cf771e622a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestNorthEast
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 132
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e252f24c30394fbbbe99d098bcec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestSouth
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 132
+        width: 61
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6557377, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c5d44e99ae1545b1cb2c45b7e9ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_GrassDirt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 92
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0100c53a7293e54ebd5c12c21804fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hill_Grass
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 76
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7884a369ae4c3474ba86df056f138be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestNorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65474e4cc2cfa4c9fecd706882a8d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestEast
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 83
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ffe6182c5cd2149b47b3746d6bc81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 83
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e2cda18b18284ead99f9e613574f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestNorth
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 117
+        width: 80
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5500d0c9d87cd944a9f9539073bd55f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4a5353a0091446ac000069bb32c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestNorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 42
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381f879b8ecd2741bb7f564c14fefc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_NorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 42
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31121ed3ef5b5114f86f247c7f11a2a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_NorthEast
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 61
+        height: 40
+      alignment: 9
+      pivot: {x: 0.32786885, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc2efde83a2634c802551b9b9ff6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hill_Snow
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b530a84f79902448e9f6ef73843c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_WestSouthEast
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0cf72141cc024a84ef4e9c577c6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_SouthEast
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 27
+        width: 80
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795b8eb0c70c4c4a9b2d40fb5be99d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reef_Water
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 91
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46938777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ee42b364932a4c8ae2b00fd2148d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_WestNorth
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 81
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3569f19d49f25419639623a619b0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_SouthEast
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 81
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455f3134c00c0a4f8fa1a9dfb73dd56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0ad8a141962da0b4094648130147fa6b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f179babdc811794196650b13026c6b8, type: 3}
+  m_Name: StructureMapper
+  m_EditorClassIdentifier: 
+  archery: {fileID: 11400000, guid: 539425cd5bc24064ca0bc794ef4d5c14, type: 2}
+  barrack: {fileID: 11400000, guid: 5dbdc0e8148dc8044b9df5510e3dec1c, type: 2}
+  blacksmith: {fileID: 11400000, guid: 4c1e3c9ff077f2b448f46f2e10e82301, type: 2}
+  bridge: {fileID: 11400000, guid: 969ef0e2d6954be4d97de7868decf4f2, type: 2}
+  drawBridge: {fileID: 11400000, guid: 0f5869df6afb91145a3f2989a9a3fc07, type: 2}
+  gate: {fileID: 11400000, guid: 78f371445e226394b8a19dd9d67a6051, type: 2}
+  house: {fileID: 11400000, guid: a09ca56064ffc154aba263704382f6f1, type: 2}
+  keep: {fileID: 11400000, guid: ad7977cee60157f479561a4278753f1f, type: 2}
+  port: {fileID: 11400000, guid: e996c914d0e04af408c143232509dcb4, type: 2}
+  siegeWorkshop: {fileID: 11400000, guid: 04bf39d5091dc8f4fb9a669e6970e519, type: 2}
+  stable: {fileID: 11400000, guid: 200d9493e2230ad49a67845f8071b4dd, type: 2}
+  tower: {fileID: 11400000, guid: d4e2933dcaf44ba41bc1d771cc8d9b28, type: 2}
+  townHall: {fileID: 11400000, guid: 3c2b4369823518945aacde73a3775ae5, type: 2}
+  wall: {fileID: 11400000, guid: 5d6cfee663e2a4e42b0047fa4976d2f9, type: 2}
+  fence: {fileID: 11400000, guid: a18ed89a158e6d54a9d79da247422766, type: 2}

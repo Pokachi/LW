@@ -1,0 +1,6315 @@
+fileFormatVersion: 2
+guid: a397b3168c9f5534daa58d71d9ea4d4b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Barrack_Netural
+    21300002: Barrack_Red
+    21300004: Barrack_Purple
+    21300006: Barrack_Green
+    21300008: Keep_Blue
+    21300010: Keep_Purple
+    21300012: Keep_White
+    21300014: Archery_Red
+    21300016: DrawBridge_WhiteSouthOn
+    21300018: DrawBridge_BlackSouthOn
+    21300020: DrawBridge_RedNorthOff
+    21300022: DrawBridge_BlueNorthOff
+    21300024: DrawBridge_OrangeNorthOn
+    21300026: DrawBridge_BlueEastOff
+    21300028: Gate_NeutralSouthOn
+    21300030: Barrack_Blue
+    21300032: Barrack_Yellow
+    21300034: Barrack_Orange
+    21300036: Barrack_White
+    21300038: Keep_Yellow
+    21300040: Keep_Green
+    21300042: Archery_Netural
+    21300044: Archery_Purple
+    21300046: DrawBridge_WhiteEastOn
+    21300048: DrawBridge_RedSouthOff
+    21300050: DrawBridge_RedWestOff
+    21300052: DrawBridge_NeutralNorthOn
+    21300054: DrawBridge_RedEastOff
+    21300056: DrawBridge_OrangeSouthOff
+    21300058: Blacksmith_Orange
+    21300060: Barrack_Brown
+    21300062: Stable_Blue
+    21300064: Stable_Orange
+    21300066: Stable_Brown
+    21300068: Keep_Orange
+    21300070: Keep_Black
+    21300072: Archery_Yellow
+    21300074: Archery_Green
+    21300076: DrawBridge_BlackEastOn
+    21300078: DrawBridge_BlueNorthOn
+    21300080: DrawBridge_BlueWestOff
+    21300082: DrawBridge_NeutralSouthOff
+    21300084: DrawBridge_PurpleEastOff
+    21300086: DrawBridge_BrownSouthOff
+    21300088: Blacksmith_Green
+    21300090: Barrack_Black
+    21300092: Stable_Purple
+    21300094: Stable_White
+    21300096: Keep_Neutral
+    21300098: DrawBridge_BrownWestOn
+    21300100: DrawBridge_PurpleSouthOff
+    21300102: Blacksmith_Brown
+    21300104: Keep_Brown
+    21300106: Archery_Blue
+    21300108: Archery_Orange
+    21300110: Archery_Brown
+    21300112: DrawBridge_RedWestOn
+    21300114: DrawBridge_PurpleWestOn
+    21300116: DrawBridge_WhiteSouthOff
+    21300118: DrawBridge_YellowNorthOff
+    21300120: House_Neutral
+    21300122: Stable_Yellow
+    21300124: Stable_Green
+    21300126: Stable_Black
+    21300128: Keep_Red
+    21300130: Archery_Black
+    21300132: DrawBridge_BlueWestOn
+    21300134: DrawBridge_BlackNorthOn
+    21300136: DrawBridge_YellowEastOff
+    21300138: DrawBridge_GreenEastOff
+    21300140: DrawBridge_BlackEastOff
+    21300142: DrawBridge_PurpleWestOff
+    21300144: House_Red
+    21300146: Stable_Neutral
+    21300148: Archery_White
+    21300150: DrawBridge_GreenSouthOff
+    21300152: House_Blue
+    21300154: Stable_Red
+    21300156: SiegeWorkshop_Red
+    21300158: SiegeWorkshop_Purple
+    21300160: Port_Purple
+    21300162: DrawBridge_NeutralEastOn
+    21300164: DrawBridge_WhiteNorthOn
+    21300166: DrawBridge_NeutralEastOff
+    21300168: DrawBridge_BlackSouthOff
+    21300170: DrawBridge_PurpleNorthOn
+    21300172: DrawBridge_GreenNorthOn
+    21300174: House_Yellow
+    21300176: TownHall_Purple
+    21300178: TownHall_Brown
+    21300180: Fence_WestNorth
+    21300182: SiegeWorkshop_Neutral
+    21300184: SiegeWorkshop_Yellow
+    21300186: SiegeWorkshop_White
+    21300188: Port_Neutral
+    21300190: Port_Brown
+    21300192: DrawBridge_OrangeEastOff
+    21300194: DrawBridge_BrownEastOff
+    21300196: DrawBridge_YellowNorthOn
+    21300198: DrawBridge_OrangeWestOn
+    21300200: DrawBridge_NeutralWestOn
+    21300202: DrawBridge_BrownNorthOff
+    21300204: TownHall_Red
+    21300206: TownHall_White
+    21300208: DrawBridge_BlueSouthOn
+    21300210: DrawBridge_GreenSouthOn
+    21300212: DrawBridge_YellowSouthOff
+    21300214: SiegeWorkshop_Blue
+    21300216: SiegeWorkshop_Green
+    21300218: Port_Orange
+    21300220: DrawBridge_WhiteEastOff
+    21300222: DrawBridge_RedNorthOn
+    21300224: DrawBridge_OrangeNorthOff
+    21300226: DrawBridge_GreenWestOff
+    21300228: DrawBridge_BrownNorthOn
+    21300230: DrawBridge_BlackWestOn
+    21300232: Port_Red
+    21300234: TownHall_Orange
+    21300236: DrawBridge_RedEastOn
+    21300238: DrawBridge_PurpleEastOn
+    21300240: DrawBridge_BrownEastOn
+    21300242: DrawBridge_YellowSouthOn
+    21300244: SiegeWorkshop_Black
+    21300246: Port_Black
+    21300248: SiegeWorkshop_Orange
+    21300250: Port_Green
+    21300252: TownHall_Blue
+    21300254: TownHall_Black
+    21300256: DrawBridge_YellowWestOff
+    21300258: DrawBridge_PurpleNorthOff
+    21300260: DrawBridge_GreenNorthOff
+    21300262: DrawBridge_WhiteWestOff
+    21300264: DrawBridge_BlackNorthOff
+    21300266: House_Orange
+    21300268: Tower_Neutral
+    21300270: SiegeWorkshop_Brown
+    21300272: TownHall_Neutral
+    21300274: TownHall_Green
+    21300276: DrawBridge_PurpleSouthOn
+    21300278: DrawBridge_BrownSouthOn
+    21300280: DrawBridge_BlueSouthOff
+    21300282: DrawBridge_OrangeSouthOn
+    21300284: DrawBridge_YellowWestOn
+    21300286: DrawBridge_NeutralNorthOff
+    21300288: DrawBridge_WhiteWestOn
+    21300290: DrawBridge_BrownWestOff
+    21300292: House_Purple
+    21300294: House_White
+    21300296: Port_Yellow
+    21300298: TownHall_Yellow
+    21300300: DrawBridge_BlueEastOn
+    21300302: DrawBridge_GreenEastOn
+    21300304: DrawBridge_RedSouthOn
+    21300306: House_Black
+    21300308: Fence_WestSouthEast
+    21300310: DrawBridge_NeutralSouthOn
+    21300312: DrawBridge_YellowEastOn
+    21300314: DrawBridge_OrangeEastOn
+    21300316: DrawBridge_OrangeWestOff
+    21300318: DrawBridge_WhiteNorthOff
+    21300320: DrawBridge_NeutralWestOff
+    21300322: DrawBridge_BlackWestOff
+    21300324: House_Green
+    21300326: Gate_NeutralSouthOff
+    21300328: Gate_RedEastOn
+    21300330: Port_Blue
+    21300332: Port_White
+    21300334: Gate_BlueSouthOff
+    21300336: DrawBridge_GreenWestOn
+    21300338: House_Brown
+    21300340: Blacksmith_Neutral
+    21300342: Blacksmith_Red
+    21300344: Blacksmith_Blue
+    21300346: Gate_BlueNorthOff
+    21300348: Blacksmith_Yellow
+    21300350: Blacksmith_Purple
+    21300352: Blacksmith_White
+    21300354: Blacksmith_Black
+    21300356: Fence_WestSouth
+    21300358: Gate_WhiteEastOn
+    21300360: Gate_WhiteWestOn
+    21300362: Gate_BrownEastOff
+    21300364: Gate_BrownWestOff
+    21300366: Gate_BlackNorthOn
+    21300368: Gate_RedSouthOff
+    21300370: Wall_North
+    21300372: Fence_East
+    21300374: Gate_RedEastOff
+    21300376: Gate_RedNorthOn
+    21300378: Gate_RedWestOn
+    21300380: Gate_BlueNorthOn
+    21300382: Gate_NeutralEastOff
+    21300384: Gate_PurpleEastOff
+    21300386: Gate_PurpleWestOn
+    21300388: Fence_NorthEast
+    21300390: Gate_OrangeWestOff
+    21300392: Gate_GreenSouthOff
+    21300394: Gate_GreenNorthOff
+    21300396: Wall_SingleWestEast
+    21300398: Wall_WestNorthSouth
+    21300400: Wall_NorthSouth
+    21300402: Tower_Yellow
+    21300404: Gate_RedNorthOff
+    21300406: Gate_RedWestOff
+    21300408: Gate_BlueEastOn
+    21300410: Gate_YellowSouthOn
+    21300412: Gate_YellowEastOn
+    21300414: Gate_PurpleSouthOff
+    21300416: Gate_PurpleWestOff
+    21300418: Gate_OrangeSouthOn
+    21300420: Gate_OrangeNorthOn
+    21300422: Gate_NeutralNorthOff
+    21300424: Gate_GreenWestOn
+    21300426: Gate_WhiteEastOff
+    21300428: Gate_WhiteWestOff
+    21300430: Gate_BrownNorthOn
+    21300432: Gate_BlackSouthOn
+    21300434: Gate_BlackNorthOff
+    21300436: Wall_WestSouthEast
+    21300438: Fence_SingleWestEast
+    21300440: Fence_WestNorthSouthEast
+    21300442: Wall_WestSouth
+    21300444: Gate_BlueSouthOn
+    21300446: Gate_BlueEastOff
+    21300448: Gate_BlueWestOn
+    21300450: Gate_YellowNorthOff
+    21300452: Gate_YellowWestOn
+    21300454: Gate_PurpleNorthOn
+    21300456: Gate_OrangeEastOn
+    21300458: Gate_OrangeNorthOff
+    21300460: Gate_GreenEastOn
+    21300462: Gate_GreenWestOff
+    21300464: Gate_NeutralWestOn
+    21300466: Gate_BrownSouthOn
+    21300468: Gate_BrownNorthOff
+    21300470: Gate_BlackSouthOff
+    21300472: Gate_BlackWestOn
+    21300474: Wall_SingleNorthSouth
+    21300476: Fence_SingleNorthSouth
+    21300478: Tower_Red
+    21300480: Tower_Orange
+    21300482: Tower_Brown
+    21300484: Gate_NeutralEastOn
+    21300486: Gate_BlueWestOff
+    21300488: Gate_YellowEastOff
+    21300490: Gate_PurpleSouthOn
+    21300492: Gate_PurpleEastOn
+    21300494: Gate_OrangeSouthOff
+    21300496: Gate_GreenSouthOn
+    21300498: Gate_GreenEastOff
+    21300500: Gate_WhiteSouthOn
+    21300502: Gate_WhiteNorthOn
+    21300504: Gate_BrownSouthOff
+    21300506: Gate_NeutralWestOff
+    21300508: Gate_BlackEastOn
+    21300510: Gate_BlackWestOff
+    21300512: Wall_East
+    21300514: Wall_NorthSouthEast
+    21300516: Tower_Blue
+    21300518: Tower_White
+    21300520: Tower_Black
+    21300522: Gate_YellowSouthOff
+    21300524: Gate_YellowNorthOn
+    21300526: Gate_YellowWestOff
+    21300528: Gate_PurpleNorthOff
+    21300530: Gate_NeutralNorthOn
+    21300532: Gate_OrangeWestOn
+    21300534: Gate_GreenNorthOn
+    21300536: Gate_WhiteSouthOff
+    21300538: Gate_WhiteNorthOff
+    21300540: Gate_BrownEastOn
+    21300542: Gate_BrownWestOn
+    21300544: Gate_BlackEastOff
+    21300546: Gate_RedSouthOn
+    21300548: Wall_South
+    21300550: Wall_WestNorthSouthEast
+    21300552: Fence_South
+    21300554: Gate_OrangeEastOff
+    21300556: Wall_West
+    21300558: Wall_WestEast
+    21300560: Fence_NorthSouthEast
+    21300562: Tower_Purple
+    21300564: Tower_Green
+    21300566: Wall_NorthEast
+    21300568: Wall_SouthEast
+    21300570: Wall_WestNorth
+    21300572: Bridge_WestEast
+    21300574: Fence_SouthEast
+    21300576: Wall_WestNorthEast
+    21300578: Bridge_NorthSouth
+    21300580: Fence_West
+    21300582: Fence_North
+    21300584: Fence_WestEast
+    21300586: Fence_NorthSouth
+    21300588: Fence_WestNorthEast
+    21300590: Fence_WestNorthSouth
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barrack_Netural
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b363cb74a601c488eb4881465b1175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Red
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1416
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d51e7817b90bd47aa2fe09b7bbb99d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Purple
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1416
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68770e33e4f30924a80b9ce9dbab73aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Green
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1416
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d1344bb05937345856a2c44abf6aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Blue
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1400
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5cf1e133ecb3f47b4d91b08d310890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Purple
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1400
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9cab0760a06945999934074ed5102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_White
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1400
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3edba02c70924d8197de7146404c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Red
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1411
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7fd89b96b8e140ac81f650258917c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteSouthOn
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1411
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b6de8c6005804b9c5fa5b924ab100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackSouthOn
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1411
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4773aa85a2794289eaa29cac524bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1421
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae1a3a820881c468a5266b9691fecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1421
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc91142b3ccd88428f9b5fef1b359a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1421
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522ff88c6e1ae224888aee77caa82289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueEastOff
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1411
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18ed1ddde0cdf488a8ccf22fcd673a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralSouthOn
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1421
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d35ed1ff37d44aa3bcd8de3a90718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20087bca608551949bf3c62603890433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Yellow
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1325
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca68056fcca4cd45ac175836ea53212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Orange
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1325
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84881eff5a4a06049ae0112b94a257c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_White
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1325
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0ff6371d16bb4e8e939e5fdc978d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Yellow
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1293
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e47690802759064a9638fd66cf718bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Green
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1293
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f277dbbe94a3224b8e7c72c303063f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Netural
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1304
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945388c508f42c47a1bd498c2c475dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Purple
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1315
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908b3e34556270c40bef2e8f27148dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteEastOn
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1315
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33189e59f6a2873438e31ffb2d862e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1315
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582dae6ae5ec6c4c97d7cb44cfbb349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedWestOff
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1335
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d15f1e67003044ea4bf0acb07f1c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1335
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedef7c1010183446b20f5fe5df5c77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedEastOff
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1325
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1e97ffe43fcdf4da455be7a0d5c508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1315
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf20e0ee54ae5742b592733e56de1b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Orange
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1350
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376c27c4d9f1054d8d1a40ec279f05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Brown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f1ae9dcac4db489c0ebc6914c56cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Blue
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1234
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a84f117d43c5c40831b5affc6f797e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Orange
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1234
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105664ea3f9181846b18fdc8bc39f9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Brown
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1234
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba843f31b141d044bd43102a2c9e3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Orange
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1186
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7f6fe3ba392b4f8dd24e5f4225459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Black
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1186
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be09211263713984aa0941a4498d3c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Yellow
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1208
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93235724a81f29d4da7cec5f2df8bd57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Green
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1219
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74135300bfbbfa4ea4786cef4448d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackEastOn
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1219
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8eb09e30cbd384a80694e6ec97ae11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1229
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a3b1caaff07647a5d87cc32b35066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueWestOff
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1249
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ce5d931fe59b439fa7f11102d4552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1239
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30a6875b58d09408e1c432f380703a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleEastOff
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1229
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11a25e3daa88643a6c9d40386d8204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1219
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfcf6c65708a254a861ff7e1739457d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Green
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1289
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb68f8c4026524989488025463eee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrack_Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dc968eed2664438e899d0c871758f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Purple
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1143
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfcedf161794242a30a4eb9d3d75dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_White
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1143
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3487306e332e2f41a3d9b4f326c08ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Neutral
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1127
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7d51ff339cc240833dd478f2832ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownWestOn
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1163
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c69c080f4277e47b8bc5f65980b175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1143
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a69c72d8b28b74581102d9521f5724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Brown
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1228
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad41e90cf1d5f4428af74db44c903c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Brown
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1079
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6faa13e9a25ca4c80ee8ddba5105e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Blue
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1090
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e813e7bc270b4496bb77a54e14f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Orange
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1112
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904473df68eaaec4a831c7ae79f1ec2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Brown
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1123
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de9ad34166f5d49bc4402391075080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedWestOn
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1133
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52baf8fc380b5f143b9cb271de5b45ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleWestOn
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1143
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa0d37646d175c4e969ffcd5ca1b72b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1133
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8f2cb84dad66478b3caf8bf4909ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1132
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77ef471cb557c449a9b2ad2e5a67ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Neutral
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1172
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08872417fba2b8b4e891adc2e4659ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9ad65b01fcd641a17f5f4c9456b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Green
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1052
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0df45434270f4fbb59e51d3130ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Black
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1052
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138de9fdafc58c84ab09fedc1aa3caf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_Red
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1020
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228797c0c2fc5f243b9116db923ec9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_Black
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1027
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a90e41e39da840bf77710b4ee478a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueWestOn
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1047
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7829d58a140d4ab0f4e4bdb3fd5cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1057
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2c77fe0e00a1459ffc7acfe5b0cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowEastOff
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1067
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db968930913a65e49b4ed054b58fe9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenEastOff
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1047
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fd535622fb8a4581ea768b13cd293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackEastOff
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1037
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dbf2b199f60bb4c97944a7fbcada4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleWestOff
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1046
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ace524da4f3bfb4bba583268bac8d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Red
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1116
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0591b5eb0f9694cab9a26a511a631f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Neutral
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 999
+        width: 120
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e579873b27793b41a9a3344b8c8a0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archery_White
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1016
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d043e27d153184eb7d663d0664c8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 971
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65451cdc2fd76ff49b4731c41ca334d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Blue
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1060
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1fd579d721b348a112813e19cf7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 120
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e915d04e1aaa37458562fd27a914cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Red
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 969
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8be21832939064b85dd7c105e9a65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Purple
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 969
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecf9bed5d2fa7448c90772ad5b3d93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Purple
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 998
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ee490fadc22e9419cbd3c075497ff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralEastOn
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 930
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc77db76ea280c4c8a476ddad92a7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteNorthOn
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 961
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f89f2e18a72d4fb28b227f9bae1f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralEastOff
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 961
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cd1562644b7843926d5d1fb99db02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 951
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169c43c79bbc0f46b2c96ac919072a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 951
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3dd405b6b0c344848b5f4da818310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 960
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2347995f39acf4eae3aca29d8fc361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1004
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028c320997b88a4a9e5bfa15e0be8b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Purple
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 917
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348a49fc649fb14c99b8555d91319ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Brown
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 935
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1bfbafb4294004a9a6d8a3dfce0063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestNorth
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 965
+        width: 64
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ef2665691eda40ad4768fc796e2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Neutral
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00ee158da842542b936f6617f4284f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Yellow
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 886
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4870dacb36c68749b0ecaf99cb68cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_White
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 886
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2782f94acc844397037a702c67bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Neutral
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 939
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8cc17d23503b4c91ec50dff422215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Brown
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 917
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad7f6cc934a9146823705934023d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeEastOff
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 865
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee5a21b1101bf46ae831b481ef37dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownEastOff
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 865
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bfadb2cde5e894fb716d62da791099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 865
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2103b80b678742b3cc4c95fa8c935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeWestOn
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 865
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e72862e1062747b0a7fb0c07209ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralWestOn
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 865
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c7eaa61329b642b54b7e3bf8005c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 874
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b3f66fced01b4980ff4c5fa4bc764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Red
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 836
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5629208ab90d74bb1944493ed8d068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_White
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 836
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e30dc5801253468c8f959402b67d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueSouthOn
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 838
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3635fdf2004f438cfd6fc307e24ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenSouthOn
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 833
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f3b88c850cc54a9fa07a67f7e0767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowSouthOff
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 834
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721cfa331f875fe4b9ec63811409f5df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa2c3956117b54c94ff29561592cbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Green
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 803
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b58da84b548854389a4b64c860e74a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Orange
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 858
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ca88ada631f04a81874466b1642d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteEastOff
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 769
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7690a80e1e016478409dfd3ed833db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 779
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7057a7d3c3521a49885bac151619bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 779
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01361b6e2691db44ba187578d586153a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenWestOff
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 779
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32009a0a2e0424b9b4cd97e48dd69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 779
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd88b6626bc25b4d97e245c5f66fd94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackWestOn
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 788
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3d1e66e62cbc4389527f6a70a7714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Red
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 805
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb706809d6d0edf41a71dff0453e80f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Orange
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 755
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48f1accb924a445a674b07b79648b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedEastOn
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 739
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81154f0762707b145a23f0e4b88c6ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleEastOn
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 739
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac59b5c16f61049beb484909726f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownEastOn
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 736
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfae4bf02f20024fa6d7b33b25ce6a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowSouthOn
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 737
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcabf585e8126f4aa8840dd22c1198f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Black
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 720
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841bfe8cd40d3a409102232e02239f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Black
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 777
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7a24493773bb43b6c819c52e90523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e456bdbc9f92d040b12c23cd2d25ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Green
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 724
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79141782c30d9eb42aced8b061068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Blue
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 696
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b459b7d66b94b4940901db412f7918ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Black
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 674
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fa275f859c4b48a9f157a52308176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowWestOff
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 682
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a242507b9081f4297a740be70d4ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 683
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab8f69ffa60a744b2661fecac4f045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 693
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b828fbdb499e45976ff4b293d1378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteWestOff
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 693
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c843ec75b57f6da42a359112aad0fba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 693
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec252780cfaf14c8f0d56eb2699070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Orange
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 723
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ffff1e8be2544ca9e7b6a46e85142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Neutral
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 697
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5471d372acd4e47963d6b0973aaef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiegeWorkshop_Brown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb1c806857c9a4998568136838a9c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Neutral
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 643
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989447ea1f39346448c03bb5c26e413e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Green
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 615
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d1355b47901d4abdd51a5cc848fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_PurpleSouthOn
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 642
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b151e5b50c09d14bb78170c6cf6f276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownSouthOn
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 642
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c263f8bdcec74f82681a2ed26eba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueSouthOff
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 640
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af10ed61d1799f4f8608fa4b3b81fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeSouthOn
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 641
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79328045480d248a527e750ff44f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowWestOn
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 596
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bfb01b87c5844d9c3c1aea3de71b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 597
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f712c1dd54fcb74b820e8c765cdb7a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteWestOn
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 607
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ddcba9c58353488e14dbaa76970cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BrownWestOff
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 607
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8f7adbab4abb448ab035c34acd87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Purple
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 637
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4282fcb3c2430e4f8e8f336f079b123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_White
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 667
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86fb69ac488d54b92e6a5d5716b59d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Yellow
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 639
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da056606ebbc8445a1913c69d6cddb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownHall_Yellow
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 562
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f1c08963ae0f41baf2d587e1092bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlueEastOn
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 577
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba97d6f8044b784d99518b9f2e3998b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenEastOn
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 545
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d855ecaae0fb4bbf5e47da71fc7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_RedSouthOn
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 545
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d116530eb2e441b0447125baad27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Black
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 611
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90391ca117e7cbd438e3cd9c426f8a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 614
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18765d588a65d4c9f917c7bc0406d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralSouthOn
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 518
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe886ed0ea42bad489a0ac23844677da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_YellowEastOn
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 544
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b905b2bdc5e7cfb44b27951fc812918c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeEastOn
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 544
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d203a490268b44be91f570b6cf931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_OrangeWestOff
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 510
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929fd94e27da8134f95af712b8530e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_WhiteNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 510
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210f6f036860614bb6faf370ee02dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_NeutralWestOff
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 511
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ab20c82b36c94d86cee04f63b0473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_BlackWestOff
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 521
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44568e3ae8347724595580d8e6079775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Green
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 581
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513e0eb8227f6c458c029e953ab7b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 525
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35133f0a91b44fb4e8a8241f1e6caca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedEastOn
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 525
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f08487cf7038a4590474f4ccfaa7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9f861f52d75c4c8fa491d5460703a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port_White
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 558
+        width: 120
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e89868669a7b945aa346c6c6517c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueSouthOff
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 476
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24ca06d81d89947958b21f2f3b2c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawBridge_GreenWestOn
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 491
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3960396, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f22107ed821ba41b2e837b3739ae63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Brown
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 525
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7310cdd39a64a4d8da2edc2d22c640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Neutral
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34dfc1015ed5d41945b0839672bc2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Red
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 487
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad736872678e74691072e055a5eadd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Blue
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 497
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f5e847e849e546bebcdc0399777c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueNorthOff
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 432
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52cffd8bd81fdd48b9f9a8ecd83b469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Yellow
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 484
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6e3faec6c7c548ba64fe6edcfc3ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Purple
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 484
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae04bd44abd0dd4592faba2ceffef62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_White
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 483
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5945cbea14d68a74d8c0af8ae19d8378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Black
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 483
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9260ea6f54fe047bb599f1d04e2a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestSouth
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 491
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.8888889, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a60af9bc800ae049b2b83bd6241bb11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteEastOn
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 424
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7ea31d24a4b3a48add3c3128b524e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteWestOn
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 424
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a8be3f0b4c5a439c89835f160e04a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownEastOff
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 424
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45577b7c179afd747a85209f1382a2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownWestOff
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 425
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97243971557b6b046aa497612a73304e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 435
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec1ef25e0213440be0e78a81d8f2af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 435
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8cb1c546e075744b016d383a595244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_North
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 459
+        width: 81
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f26d7efe487a642be8f84986d42f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_East
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 463
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b8abb8a83d284e977bba0749bf9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedEastOff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448dd7412ca29924aad62fcd9448df60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedNorthOn
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 401
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c2b8b132c50645a1af434cae5e715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedWestOn
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 401
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7010835c3f6095146a679514f835ab96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueNorthOn
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 390
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad348751d272840b67259abcdfb041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralEastOff
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 405
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b896b5debb777c4ba5363e2e88a0252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleEastOff
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 398
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d65e298c4a5345b4cd003e185c8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleWestOn
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 398
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3223561f7ebb98b419bf0947ef93f497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_NorthEast
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 431
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43b298742956f54591fad14fc32ee4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeWestOff
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 397
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76342743cb7600458abad95f2084da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenSouthOff
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 397
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d0f08a78223e4ba936c07cfcb7c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenNorthOff
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 397
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733f3b77af2cab4eaff6067a9ddc5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_SingleWestEast
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 349
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53abeae2515514ea8ba4af610af20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 374
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d97fe6ae2cde4a9c77efbb50d0f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NorthSouth
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 398
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b2442a4f749942a95cf0514002ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 372
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6c8f8030e023478e37f4753a31dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedNorthOff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace2b2bc55b1d74b9b547af0fd9a839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedWestOff
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 315
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f2172564ae32458a18dc6c4f28887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueEastOn
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 315
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4dbcadb235294d91f2afb26c75592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowSouthOn
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 304
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f3f6022c2a2740b97a7f5f1552033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowEastOn
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 346
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f99332a8533be44baa2727b3fa0160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleSouthOff
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 319
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc70df8b5d300343ada77b1f5a4c280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleWestOff
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 312
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5510d13ad0cc8b8478ad4fb4012c16b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeSouthOn
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 312
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0bdaa9ceab2341944f95d8247b500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeNorthOn
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 312
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0da6efd51e5e4593b484a957277db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralNorthOff
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 311
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177596ce9e82b34d83aec05508465b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenWestOn
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 311
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a89aedce283a541b8c32e67fd8b958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteEastOff
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 311
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d089bffb1a5e4cb98447f6eb5d44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteWestOff
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 338
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f62b9ff8962c4abdd9f4ae6781599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownNorthOn
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 338
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62ab2c9b3bc1143b0a4c9f01c23111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackSouthOn
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 338
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa97fd5b99d24d348b126ee3356bd501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackNorthOff
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 339
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b349c3292bc7d4cb11397831171d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 288
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4855c415de574fa09f4919a51e3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_SingleWestEast
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 312
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f4bda103bd864cbcf9bf6d66cf26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestNorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 345
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc15b0030184b44b88bd1b56aa498f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestSouth
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 311
+        width: 61
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6557377, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f40fa5493f8741b880595d681907b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueSouthOn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b21c81b07ab5643883ee9c8c2ea729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueEastOff
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 229
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438ea63b4c0b464f9e02d868b8bca9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueWestOn
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 229
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937341046476dbe47b9e19cf49cc9924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowNorthOff
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 218
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406eacf8d178d1418e7765b205b3422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowWestOn
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 260
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4aef6785f8b64985cfd4685e239d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleNorthOn
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 233
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96b1accbfa9764aa419d1a3888f565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeEastOn
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 226
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c74dcf2742f6d4e96d8b7aae30fada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeNorthOff
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 226
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df579c5c3a8db4d99497ff61819923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenEastOn
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 226
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50745e68858dfbd49833becd7eae06da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenWestOff
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 225
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17ed3fd31bfe946ae6c218756336a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralWestOn
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 225
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544e00d97a07fe46af216cf7117213b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownSouthOn
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 225
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d91e536686bd4a93d544133ee45fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownNorthOff
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 252
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735df133ac96154dafde3ccf5077b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackSouthOff
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 252
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187be7d86c46e8f468b49875ae1cf81f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackWestOn
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 252
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca6bcd6646b6d42b91da459666c762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_SingleNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 253
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd30b248c615cba4482c35e64ccff8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_SingleNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 226
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f16b6a4154ecb4a8db33d906bc509e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Red
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 221
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d78c738000c08429d729e3a4d0bbe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Orange
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 254
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359576e5aef45f94c94b292de679b825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Brown
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 254
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba79237a2b8fa4d97cde08cc94ce35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralEastOn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef51226e762ad04b8a9e117b2a9966b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlueWestOff
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d958c0fe87cc9b43965ff838090f035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowEastOff
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 143
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9a56c3e570414cbda9eab90f97de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleSouthOn
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 132
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf3188009ba704d9fc0f7b90749feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleEastOn
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 174
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff47b1a41cef749a9206f8618d7140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeSouthOff
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 147
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c8477104581ab4bbe41b8feb3d49d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenSouthOn
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 140
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05babaeef02e84582bec34f7ef1231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenEastOff
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 140
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a714069296124bba57f7507c90b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteSouthOn
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 140
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487595c2e10f6e349a938803ec065463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteNorthOn
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 139
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d85fe9ce7ae3541b681e2150527053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownSouthOff
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 139
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767b232b1d25044dac90952630bc7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralWestOff
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 139
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204263ee4a6d5064db01edc2e4de9922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackEastOn
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 166
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7a50600ced26449e22908b0130a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackWestOff
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 166
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffd877717744947a666043a55cb6f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_East
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 166
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ac2de02f748fd4588faf31e6cd8d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 192
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756abe505d4812945b5ffbddaa94ad8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Blue
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 135
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751e74d3c8153b4086dddde31b8c1bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_White
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 130
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9c97ab121c3b40a95c7d9b8fa3387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Black
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 163
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1ea2fdc5d75345bca2ed1f521e211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowSouthOff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26be9cd83a3b3408131df3bcdaec25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowNorthOn
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 57
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e82996dd0ea6c4f882c431381bb88a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_YellowWestOff
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 57
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a270f366e4564383aaecd5d885994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_PurpleNorthOff
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f21283efe25e842a45ee0fcd6f1d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_NeutralNorthOn
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 88
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c6ad14df763024a81a02e38f1f41ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeWestOn
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 61
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8adcc3e92847f4a99b504426193a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_GreenNorthOn
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 54
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9413b599701d94e9ee9bfe7ade6dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteSouthOff
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 54
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841c2d1c873dae54f8e8b645acdf29ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_WhiteNorthOff
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 54
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a3b8b92e1e4b4cb3cded104dc04d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownEastOn
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 53
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cffa44c0cdfcd44193278391a06fad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BrownWestOn
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 53
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660056db6f6e9340b5a066e747ae891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_BlackEastOff
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 53
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d3b91fc2b4b643b4ee1842dfa77cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_RedSouthOn
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 80
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45deafd0216d246b9aff7b2afe8cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_South
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 80
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760fa7c5bd2e2a54c962b217fdfed74b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestNorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 105
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b461dbb7cb1bcc4a8e304623f84c8fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_South
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 130
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085020126e0eef749a6c139ce7537f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_OrangeEastOff
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb2947c8204ab419993df9f172cd9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_West
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 14
+        width: 81
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d9cb22a00c684ba80fb2645d4bc99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestEast
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 19
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68997acb58f364783fc98e748cb029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_NorthSouthEast
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 52
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ea8f7e4f5f11478f66ac966bb3657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Purple
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 39
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f74c0840fd832459210fc8f8ba1f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower_Green
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 39
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42383b6867c2f0f4b98151c6fdb22a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NorthEast
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 69
+        width: 61
+        height: 60
+      alignment: 9
+      pivot: {x: 0.32786885, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1a38638978ff469d8d6acc352ebe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_SouthEast
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 81
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca427abd0ddf44286bb8659615dcfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestNorth
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 81
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584b5dd2319d614a959361cfde56f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_WestEast
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d639b7e18809ed459b36a4e22e60c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_SouthEast
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 64
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71647333ac928094bacd4454939400a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_WestNorthEast
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92532dec54c10e54692482c45c8796b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_NorthSouth
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf8ccf945981214181d6a4181e2904d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_West
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5971f2ac42a4d7743b3cdb8d7e7735a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_North
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ac9f823199ea44a30c6549d578376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestEast
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d3469270a1b84b97056fe956ab998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_NorthSouth
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7416412fb58c44bb288ceb6864a72b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestNorthEast
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225308122d47f84382c8def4583e9dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_WestNorthSouth
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a582dfd849b54f49897451dac7bfb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f03afec665791547bbaef425fd1e832
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
